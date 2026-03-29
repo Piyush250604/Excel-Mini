@@ -87,7 +87,7 @@ COUNT()
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cinema-data-analysis.git
+   git clone https://github.com/Piyush250604/Excel-Mini.git
    ```
 2. Open the Excel file
 3. Explore calculations and insights
